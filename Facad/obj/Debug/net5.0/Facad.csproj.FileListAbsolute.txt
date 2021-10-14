@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Composite_Facade_DesignPatterns\Facad\bin\Debug\net5.0\Facad.exe
+C:\Users\Admin\source\repos\Composite_Facade_DesignPatterns\Facad\bin\Debug\net5.0\Facad.deps.json
+C:\Users\Admin\source\repos\Composite_Facade_DesignPatterns\Facad\bin\Debug\net5.0\Facad.runtimeconfig.json
+C:\Users\Admin\source\repos\Composite_Facade_DesignPatterns\Facad\bin\Debug\net5.0\Facad.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Composite_Facade_DesignPatterns\Facad\bin\Debug\net5.0\Facad.dll
+C:\Users\Admin\source\repos\Composite_Facade_DesignPatterns\Facad\bin\Debug\net5.0\ref\Facad.dll
+C:\Users\Admin\source\repos\Composite_Facade_DesignPatterns\Facad\bin\Debug\net5.0\Facad.pdb
+C:\Users\Admin\source\repos\Composite_Facade_DesignPatterns\Facad\obj\Debug\net5.0\Facad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Composite_Facade_DesignPatterns\Facad\obj\Debug\net5.0\Facad.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Composite_Facade_DesignPatterns\Facad\obj\Debug\net5.0\Facad.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Composite_Facade_DesignPatterns\Facad\obj\Debug\net5.0\Facad.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Composite_Facade_DesignPatterns\Facad\obj\Debug\net5.0\Facad.dll
+C:\Users\Admin\source\repos\Composite_Facade_DesignPatterns\Facad\obj\Debug\net5.0\ref\Facad.dll
+C:\Users\Admin\source\repos\Composite_Facade_DesignPatterns\Facad\obj\Debug\net5.0\Facad.pdb
+C:\Users\Admin\source\repos\Composite_Facade_DesignPatterns\Facad\obj\Debug\net5.0\Facad.genruntimeconfig.cache
